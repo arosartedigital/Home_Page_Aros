@@ -12,7 +12,7 @@ const _gallery = [
 		description: "Arte Digital"
 	},
 	{
-		img: "assets/photo_3.png",
+		img: "assets/photo_3.jpg",
 		description: "Modelagem 3D"
 	},
 	{
