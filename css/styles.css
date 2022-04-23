@@ -363,12 +363,12 @@ img{
 	font-size: 3.6rem;
 }
 
-.diferencial__titulo--carteira::before{
-	content:"\f555";
+.diferencial__titulo--mao::before{
+	content:"\f2b5";
 }
 
-.diferencial__titulo--mapa::before{
-	content: "\f5a0";
+.diferencial__titulo--relogio::before{
+	content: "\f017";
 }
 
 .diferencial__titulo--meias::before{
@@ -579,6 +579,7 @@ img{
 @media  screen and (min-width:1170px){
 	.newsletter-form__input{
 		flex: 2;
+		
 	}
 }
 }
