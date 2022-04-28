@@ -5,7 +5,7 @@ Você sabia que a falta de uma  comunicação efici  e criativa pode lhe  coloca
 Começe hoje mesmo a explorar o maxìmo dos efeitos de uma boa comunicação.
 E veja os resultados disso no seu negócio.
 
-#AROS ARTE DIGITAL sua opção em serviços gráficos e comunicação visual.
+#AROS ARTE DIGITAL sua opção em serviços gráficos e comunicação visual
 Conte com nossa ajuda para cuidar bem da sua marca e se diferencie.
 
 Fazemos:
