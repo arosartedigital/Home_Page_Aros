@@ -158,3 +158,5 @@ _elements.slider.addEventListener("", e => {
 _elements.slider.addEventListener("", e => {
 
 });
+
+
