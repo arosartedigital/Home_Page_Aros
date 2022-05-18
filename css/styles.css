@@ -649,9 +649,9 @@ img{
 	color: var(--clr-light-green);
 }
 
-@media  screen and (min-width: 580px){
+@media  screen and (min-width: 380px){
 	.footer{
-		font-size: 1.6rem;
+		font-size: 1.4rem;
 	}
 
 	.date::after{
